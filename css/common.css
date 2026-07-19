@@ -10,5 +10,5 @@ body {
     color: red;
 }
 .container.header_btm {
-    display: none;
+    /* display: none; */
 }
